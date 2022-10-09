@@ -1,0 +1,20 @@
+{
+    "name": "mohammad-rj/signal-adder",
+    "description": "manage your positions in the exchange with the command in Telegram.",
+    "type": "project",
+    "require": {
+        "linwj/binance": "^2.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MohammadRj\\SignalAdder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohammad-rj",
+            "email": "info@epid.co"
+        }
+    ]
+}
